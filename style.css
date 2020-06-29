@@ -23,7 +23,11 @@
             font-weight: 700;
             text-align: center;
             }
-        p{background-color: rgb(22, 224, 56); color: white;
+        #jahed:hover{color:red; background-color: sandybrown; font-family: fantasy;
+
+        }
+
+    p{background-color: rgb(22, 224, 56); color: white;
                 font-family:sans-serif;
                 border: gray solid 2px;
                 border-radius: 5px;
